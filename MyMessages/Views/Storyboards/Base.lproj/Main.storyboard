@@ -25,10 +25,10 @@
             </objects>
             <point key="canvasLocation" x="1668.1159420289857" y="92.410714285714278"/>
         </scene>
-        <!--Navigation Controller-->
+        <!--Conversations View Controller-->
         <scene sceneID="JEl-Ue-A0c">
             <objects>
-                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="dCl-ru-SZ5" sceneMemberID="viewController">
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="dCl-ru-SZ5" customClass="ConversationsViewController" sceneMemberID="viewController">
                     <toolbarItems/>
                     <navigationItem key="navigationItem" id="vbB-Sl-NbO"/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="fgk-Uy-kwm">
